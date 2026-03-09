@@ -15,8 +15,8 @@ Overall, the results show that numerical feature representation can influence FT
 
 ## Authors
 
-Yonatan Seleznev  
 Shiri K. Nitzan-Tzahor
+Yonatan Seleznev  
 
 ## Files
 
